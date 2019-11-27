@@ -58,9 +58,7 @@
 */
 @media only screen and (min-width: 641px){
    table{
-      background-image: url(Iht_photo1.png) no-repeat; 
-      background-position: bottom right;
-      background-size: 40%;
+      background: url(lht_photo1.png) no-repeat bottom right / 40%; 
       border: 6px double solid rgb(154, 64, 3);
       border-collapse: collapse;
       margin-top: 20px;
